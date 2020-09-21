@@ -1,0 +1,45 @@
+/* Doni Brysoni Mbaga */
+
+@font-face {
+  font-family: OpenSans;
+  src: url("OpenSans-Regular-webfont.woff") format("woff");
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: OpenSans;
+  src: url("OpenSans-Bold-webfont.woff") format("woff");
+  font-style: normal;
+  font-weight: 700;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  height: 100%;
+}
+
+body {
+  background-color: #ececec7a;
+  font-family: OpenSans, sans-serif;
+  font-weight: 400;
+  border: 5px solid #d7d7d7;
+  border-radius: 5px;
+}
+
+header {
+  border: 1px solid #e1e1e1;
+}
+
+header h1 {
+  letter-spacing: 0.2em;
+  color: #868686;
+  font-weight: 700;
+  font-size: 1.5rem;
+}

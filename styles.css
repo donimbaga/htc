@@ -67,3 +67,24 @@ nav a {
 a:hover {
   color: #595959;
 }
+
+.intro {
+  padding: 3em;
+  line-height: 4;
+  letter-spacing: 3px;
+  text-align: justify;
+  color: grey;
+  font-size: 1.1rem;
+}
+
+.intro h2 {
+  text-align: center;
+}
+
+footer {
+  height: 12%;
+  border-top: 3px solid #e1e1e1;
+  text-align: center;
+  color: #868686;
+  padding: 1em;
+}

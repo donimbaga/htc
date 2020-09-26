@@ -69,12 +69,12 @@ a:hover {
 }
 
 .intro {
-  padding: 3em;
-  line-height: 4;
+  padding: 2.5em;
+  line-height: 300%;
   letter-spacing: 3px;
   text-align: justify;
-  color: grey;
-  font-size: 1.1rem;
+  color: #868686;
+  font-size: 1.5vw;
 }
 
 .intro h2 {

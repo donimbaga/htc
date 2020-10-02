@@ -1,3 +1,3 @@
 
-
-Actually I do not know what to put here
+## howToCode
+This website is my public learning journal.

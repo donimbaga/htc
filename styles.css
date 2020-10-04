@@ -45,29 +45,26 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  letter-spacing: 3px;
+  color: #868686;
+  font-weight: 700;
 }
 
 header h1 {
-  letter-spacing: 5px;
-  color: #868686;
-  font-weight: 700;
   cursor: pointer;
 }
 
-header nav {
-  font-weight: 700;
-  color: #e1e1e1;
+header h1:hover, 
+nav a:hover {
+  color: #2f2f2f;
 }
 
 nav a {
   text-decoration: none;
+  font-size: 1.5vw;
   color: #868686;
-  font-size: 1.5em;
 }
 
-a:hover {
-  color: #595959;
-}
 
 section {
   width: 100%;
@@ -100,7 +97,7 @@ footer {
 
 @media only screen and (max-width: 320px) {
   header {
-    font-size: 2.5vw;
+    font-size: 3.0vw;
   }
   header h1 {
     letter-spacing: 1px;

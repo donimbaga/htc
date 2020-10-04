@@ -54,7 +54,7 @@ header h1 {
   cursor: pointer;
 }
 
-header h1:hover, 
+h1:hover, 
 nav a:hover {
   color: #2f2f2f;
 }

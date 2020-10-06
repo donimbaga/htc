@@ -1,6 +1,0 @@
-
-
-Footer
-  should appear on every page of the site.
-  I need a small, located at the end of the page. 
-  

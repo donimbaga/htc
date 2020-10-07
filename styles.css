@@ -118,13 +118,48 @@ footer {
 
 @media only screen and (min-width: 481px) {
   header h1 {
-    font-size: 5vw;
+    font-size: 4.0vw;
   }
   nav a {
-    font-size: 4vw;
+    font-size: 3.5vw;
   }
   .intro {
-    font-size: 2.3vw;
+    font-size: 2.5vw;
     line-height: 2.5;
+    padding: 9px;
+  }
+}
+
+@media only screen and (min-width: 769px) {
+  header {
+    padding: 10px;
+  }
+  header h1 {
+    font-size: 3vw;
+  }
+  nav a {
+    font-size: 2.5vw;
+  }
+  .intro {
+    font-size: 2.5vw;
+    line-height: 2.3;
+    padding: 9px;
+  }
+}
+
+@media only screen and (min-width: 1029px) {
+  header {
+    padding: 5px;
+  }
+  header h1 {
+    font-size: 2vw;
+  }
+  nav a {
+    font-size: 1.8vw;
+  }
+  .intro {
+    font-size: 2.2vw;
+    line-height: 2.0;
+    padding: 15px;
   }
 }

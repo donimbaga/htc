@@ -123,4 +123,8 @@ footer {
   nav a {
     font-size: 4vw;
   }
+  .intro {
+    font-size: 2.3vw;
+    line-height: 2.5;
+  }
 }
